@@ -2,9 +2,25 @@
 
 ## Dataset
 
-[Brainweb](https://brainweb.bic.mni.mcgill.ca/)
+Creation dataset by [Brainweb](https://brainweb.bic.mni.mcgill.ca/) Simulator.
+
+The Following figure shows the configs in Simulator
+
+![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/config.PNG)
+
+dataset generated in three mode: ""MS mild"", ""MS moderate"", """MS severe""
 
 ## Preprocessing 
+1. convert 3D T1 (.mnc) to 2D
+2. normalization
+3. remove extra tissues from T1
+4. remove extra tissues from mask
+
+### T1 after Preprocessing
+![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/dataset_sample.PNG)
+
+### mask after Preprocessing
+
 
 ## Train
 
