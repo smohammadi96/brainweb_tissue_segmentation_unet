@@ -33,9 +33,9 @@ python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 
 
 ## Results
 
-|   | CSF | Gray matter | White matter	
-|-----|-----|-----|-----|
-|mIOU | 0.69	| 0.83	| 0.72 |
+                 |   | CSF | GM | WM |
+                 |-----|-----|-----|-----|
+                 |mIOU | 0.69	| 0.83	| 0.72 |
 
 
 ![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/result.PNG)
