@@ -49,6 +49,11 @@ python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 
 python test.py --images /path/to/images/T1  --labels /path/to/groundtruth --model_path /path/to/model --save_output True/False
 ```
 
+|   | CSF | GM | WM |
+|---------|---------|---------|---------|
+| mIOU | 0.69	| 0.83	| 0.72 |
+
+
 ## Results
 
 |   | CSF | GM | WM |
