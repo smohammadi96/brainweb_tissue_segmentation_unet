@@ -35,7 +35,6 @@ python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 
 
 |   | CSF | Gray matter | White matter	
 |-----|-----|-----|
-|-----|-----|-----|
 |mIOU | 0.69	| 0.83	| 0.72 |
 
 
