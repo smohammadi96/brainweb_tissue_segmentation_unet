@@ -20,6 +20,6 @@
 
 `python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 --BS_test 32 --img_h 256 --img_w 176 --epochs 40 --model_name csf_tissue`
 
-### Evaluation
+## Evaluation
 
 `python test.py --`
