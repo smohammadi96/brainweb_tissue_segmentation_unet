@@ -30,3 +30,6 @@ python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 
 ## Evaluation
 
 `python test.py --`
+
+## Results
+![alt text](http://url/to/img.png)
