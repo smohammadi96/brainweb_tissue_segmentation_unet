@@ -12,6 +12,8 @@ dataset generated in three mode: MS mild, MS moderate, MS severe
 
 ## Preprocessing 
 
+![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/dataset_sample.PNG)
+
 ## Train
 
 1. **Install dependencies:**
