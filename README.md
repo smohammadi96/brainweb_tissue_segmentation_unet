@@ -1,4 +1,4 @@
-# brainweb_tissue_segmentation_unet
+# brainweb tissue segmentation
 
 ## Dataset
 
