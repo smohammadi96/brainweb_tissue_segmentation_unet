@@ -32,4 +32,5 @@ python train.py --dataset sample/dataset_without_noise_csf_1.hdf5 --BS_train 32 
 `python test.py --`
 
 ## Results
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/result.PNG)
