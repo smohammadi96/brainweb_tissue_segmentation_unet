@@ -4,6 +4,12 @@
 
 Creation dataset by [Brainweb](https://brainweb.bic.mni.mcgill.ca/) Simulator.
 
+The Following figure shows the configs in Simulator
+
+![alt text](https://github.com/smohammadi96/brainweb_tissue_segmentation_unet/blob/main/sample/config.PNG)
+
+dataset generated in three mode: MS mild, MS moderate, MS severe
+
 ## Preprocessing 
 
 ## Train
