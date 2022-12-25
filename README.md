@@ -8,11 +8,13 @@
 
 ## Train
 
-**Install dependencies:**
+1. **Install dependencies:**
 
-`pip install -r requirements.txt`
+ `pip install -r requirements.txt`
 
-`python train.py --dataset /path/to/hdf5 --BS_train batch_size --BS_test batch_size --img_h image_height --img_w image_width --epochs epochs_number --model_name /model/path`
+2. Training
+
+  `python train.py --dataset /path/to/hdf5 --BS_train batch_size --BS_test batch_size --img_h image_height --img_w image_width --epochs epochs_number --model_name /model/path`
 
 ### Example:
 
